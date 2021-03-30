@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nickel-yadav.
-- 👀 I’m interested in Machine learning and Web and Mobile application development.
+- 👀 I’m interested in Web and Mobile application development and a Machine learning hobbyist.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on projects that require knowledge of front-end technologies like HTML,CSS and Javascript. 
 - 📫 You can reach me at nikhil.ya@protonmail.com.
