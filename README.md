@@ -3,7 +3,7 @@ Hey, I'm Nikhil Yadav, an engineer excitedly pursuing fullstack development. I b
 You can reach me at nikhil.ya@pm.me
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickel-yadav&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickel-yadav&repo=MERN-based&repo=Reactify&repo=Node-applications&repo=vanillaJS)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickel-yadav&repo=MERN-based?username=nickel-yadav&repo=Reactify?username=nickel-yadav&repo=Node-applications?username=nickel-yadav&repo=vanillaJS)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
